@@ -198,7 +198,6 @@ p{
   } 
 }
 
-/* Fixed 'Left' to lowercase 'left' so the grid spacing actually works */
 .drop:nth-child(1) { left: 5%; animation-duration: 5s;}
 .drop:nth-child(2) { left: 15%; animation-duration: 6s;}
 .drop:nth-child(3) { left: 25%; animation-duration: 4s;}
