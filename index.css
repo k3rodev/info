@@ -217,7 +217,6 @@ p{
 .drop:nth-child(17) { Left: 75%; animation-duration: 2.6s;}
 .drop:nth-child(18) { Left: 85%; animation-duration: 5.3s;}
 
-
 .rainbow-text{
     filter: drop-shadow(0 0 18px rgba(255, 255, 255, 0.9));
     background: linear-gradient(
