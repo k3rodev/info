@@ -60,14 +60,13 @@ h3{
     align-self:center;
     align-items:center;
     align-content:center;
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
+    
+  
+    text-align: center;
     font-size: 50px;
     font-family: "Poetsen One";
     
-     filter: drop-shadow(0 0 18px rgba(255, 255, 255, 0.9));
+    filter: drop-shadow(0 0 18px rgba(255, 255, 255, 0.9));
     background: linear-gradient(
         90deg,
         #ff0000,
@@ -86,7 +85,9 @@ h3{
     background-clip: text;
     color: transparent;
 
-    animation: rainbowMove 4s linear infinite;
+    animation: rainbowMove 8s linear infinite;
+}
+
 }
 h1{
     color: white;
